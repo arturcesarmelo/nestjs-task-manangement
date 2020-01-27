@@ -62,8 +62,7 @@ $ npm run test:cov
 
 ## Stay in touch
 
-- Author - [Artur Cesar]
-- Website - [https://arturcesarmelo.github.io](https://arturcesarmelo.github.io)
+- Author - [https://arturcesarmelo.github.io](https://arturcesarmelo.github.io)
 
 ## License
 
